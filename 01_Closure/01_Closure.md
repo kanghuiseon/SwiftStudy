@@ -179,8 +179,35 @@ serve(customer: customersInLine.remove(at: 0))
 // Now serving Chris!
 ```
 * autoclosure 키워드를 입력하면, 파라미터 값을 넘겨줄때, 클로저를 바로 넘겨주면 안된다.
+* 또한 autoclosure에서는 파라미터값은 무조건 Void여야한다.
 * 클로저 형태( { } )를 뺀 나머지 부분만 넣어준다. 그 이유는 autoclosure로 설정했기때문에 자동으로 클로저 형태로 wrapping되어서 전달되기 때문이다.
 * 자동 클로저를 너무 많이 사용하면, 코드가 어려워질 수 있어서 남용하면 안된다.!
+<br/>
+<br/>
+
+## Multiple Trailing Closure
+* Swift 5.3 이상부터는 Multiple Trailing Closure를 사용할 수 있다.
+* 기존에는 함수의 마지막 파라미터로 클로저를 사용했을 때만 후위클로저로 사용가능했다.
+* 하지만 Swift 5.3 이상 부터는, 첫번째, 두번째 파라미터로 전달될 클로저들도 똑같이 사용가능해졌다.
+* 예를 보자!
+```swift
+func multipleTrailingClosure(firstClosure: ()->(), secondClosure: ()->(), thirdClosure: ()->()){
+    
+}
+
+multipleTrailingClosure {
+    <#code#>
+} secondClosure: {
+    <#code#>
+} thirdClosure: {
+    <#code#>
+}
+
+```
+* 첫번째, 두번째, 세번째 파라미터는 모두 클로저이다.
+* 첫번째 파라미터는 argument label을 생략해도 되지만, 그 이후의 것들에는 모두 명시해주어야한다. 그렇지 않으면, 다른 클로저로 인식한다.
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
