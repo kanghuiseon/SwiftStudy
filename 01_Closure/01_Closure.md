@@ -215,4 +215,3 @@ multipleTrailingClosure {
 <br/>
 <br/>
 
-[출처 : Swift 공식 문서](https://jusung.gitbook.io/the-swift-language-guide/language-guide/07-closures)
