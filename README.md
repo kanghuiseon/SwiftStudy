@@ -4,7 +4,7 @@
    | number | subject | Note | source |
    |:---:| :--- | :--- | :--- |
    |1|[Closure](https://github.com/kanghuiseon/SwiftStudy/blob/master/01_Closure/01_Closure.md) | 클로저 표현, Trailing closure, Capturing Values, Escaping Closures, Autoclosures, Multiple Trailing Closure | [Swift 공식 문서 Closure](https://docs.swift.org/swift-book/LanguageGuide/Closures.html) |
-   |2|[Optional](https://github.com/kanghuiseon/SwiftStudy/blob/master/02_Optional/02_Optional.md) | 옵셔널 | [Swift 공식 문서 Optional Chaining](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html) |
+   |2|[Optional](https://github.com/kanghuiseon/SwiftStudy/blob/master/02_Optional/02_Optional.md) | 옵셔널 overview, 옵셔널 바인딩, nil 병합 연산자, 옵셔널 체이닝, 메소드 옵셔널 | [Swift 공식 문서 Optional Chaining](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html) |
    |3|[Initialization](https://github.com/kanghuiseon/SwiftStudy/blob/master/03_Initialization/03_Initialization.md) | Initialization | [Swift 공식 문서 Initialization](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html) |
    |4|[Deinitialization](https://github.com/kanghuiseon/SwiftStudy/blob/master/04_Deinitialization/04_Deinitialization.md) | Deinitialization | [Swift 공식 문서 Deinitialization](https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html) |
    |5|[Methods](https://github.com/kanghuiseon/SwiftStudy/blob/master/05_Methods/05_Methods.md) | Methods | [Swift 공식 문서 Methods](https://docs.swift.org/swift-book/LanguageGuide/Methods.html) |
