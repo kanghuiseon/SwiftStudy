@@ -209,7 +209,8 @@ default:
 ```
 * 위의 switch 문은 let-where 문법을 사용했다. 만약 특정 조건이 true일 때, 해당 case문이 실행된다.
 * let 부분에서는 위의 number라는 value를 x라는 이름으로 묶고, 만약 해당 x가 where이후의 조건을 만족하면, 해당 case문이 실행된다.
-* 이렇게 조건에 기반해서 value를 매칭시키는 방법을 **pattern matching**이라고 한다. 
+<br/>
+<br/>
 
 ```swift
 switch number {
