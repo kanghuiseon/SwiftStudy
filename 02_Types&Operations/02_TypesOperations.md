@@ -172,13 +172,13 @@ let (x3, y3, _) = coordinates3D
 
 storage사이즈에 따라 1,2,4,8 바이트의 Int는 각각 Int8 Int16 Int32 Int64 로 나뉜다. 부호가 없는 Unsigned의 경우 양수만 표현하기 때문에 maximum값이 그냥 singned에 비해 2배이다.
 
-![2%20Types%20&%20Operation%20eb6eeb93e1204cd7bfb75c5df93513f5/Untitled.png](2%20Types%20&%20Operation%20eb6eeb93e1204cd7bfb75c5df93513f5/Untitled.png)
+![image1](images/Untitled.png)
 
 Swift의 Int형은 최근 하드웨어에서는 64bit로 이전 옛날 하드웨어에서는 32비트로 표현된다. 다른 컴퓨터의 소프트웨어와 교류해야하거나 정확한 사이즈가 필요한 겨웅에는 위에 나열된 숫자가 붙은 Int형을 사용하면 된다.
 
 4바이트의 경우 Float실수형, 8바이트의 경우 Double실수형이다. 최근의 하드웨어는 모두 더블형을 기준으로 최적화되있으므로 Swift에서는 Double형만을 생각하면 된다. 바이트수가 두배기때문에 precision면에서 Double이 두배의 precision을 나타낼수 있다. 
 
-![2%20Types%20&%20Operation%20eb6eeb93e1204cd7bfb75c5df93513f5/Untitled%201.png](2%20Types%20&%20Operation%20eb6eeb93e1204cd7bfb75c5df93513f5/Untitled%201.png)
+![image2](images/Untitled1.png)
 
 - 다른 인트형들을 이용해 연산을 하고싶을땐 형변환을 해주면 된다.
 
@@ -206,7 +206,7 @@ let xy: Coordinates = (2, 4)
 
 지금까지 배운 여러타입들이 있지만 사용하는건 그렇게 어렵지 않다. 이는 스위프트가 여러 타입에 대한 공통적인 특성을 공유하기 때문인데 이 type commonality를 가능하게하는 기능을 `protocol` 이라고 한다.
 
-![2%20Types%20&%20Operation%20eb6eeb93e1204cd7bfb75c5df93513f5/Untitled%202.png](2%20Types%20&%20Operation%20eb6eeb93e1204cd7bfb75c5df93513f5/Untitled%202.png)
+![image3](images/Untitled2.png)
 
 모든 타입의 모든 protocol을 나타낸것은 아니지만 대략적으로 타입들은 위와같은 protocol을 따른다.
 
@@ -227,3 +227,6 @@ Swift는 first protocol-based langage라는것만 알고 일단 넘어가자
 - There are many kinds of numeric types with different storage and precision capabilities.
 - Type aliases can be used to create a new type that is simply a new name for another type.
 - Protocols are how types are organized in Swift. They describe the common operations that multiple types share.
+
+----------------------------------------------------
+**‘Artwork/images/designs: from Swift Apprentice, available at www.raywenderlich.com”.’**
