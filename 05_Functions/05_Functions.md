@@ -267,3 +267,6 @@ option키를 누르고 선택하면 아래와같은 요약본을 보여준다.
 * You can assign functions to variables and pass them to other functions.
 * Strive to create functions that are clearly named and have one job with repeatable inputs and outputs.
 * Function documentation can be created by prefixing the function with a comment section using ///.
+
+----------------------------------------------------
+**‘Artwork/images/designs: from Swift Apprentice, available at www.raywenderlich.com”.’**
