@@ -9,7 +9,7 @@
    |Chapter 3|[Basic Control Flow](https://github.com/kanghuiseon/SwiftStudy/blob/master/03_BasicControlFlow/03_BasicControlFlow.md) | 희선 | Basic Control Flow | 
    |Chapter 4|[Advanced Control Flow](https://github.com/kanghuiseon/SwiftStudy/blob/master/04_AdvancedControlFlow/04_AdvancedControlFlow.md) | 희선 | Advanced Control Flow |
    |Chapter 5|[Functions](https://github.com/kanghuiseon/SwiftStudy/blob/master/05_Functions/05_Functions.md) | 상윤 | Functions |
-   |Chapter 6|[Optionals](https://github.com/kanghuiseon/SwiftStudy/blob/master/04_AdvancedControlFlow/04_AdvancedControlFlow.md) | 상윤 | Optionals |
+   |Chapter 6|[Optionals](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Optionals |
 * **Section II : Collection Types**
    | number | subject | Responsibility | Note | 
    |:---:| :--- | :--- | :--- |
