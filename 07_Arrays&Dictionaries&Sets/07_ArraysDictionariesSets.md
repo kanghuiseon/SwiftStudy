@@ -20,7 +20,7 @@
 ## What is an array?
 * array는 순서가 있는 collection으로, array의 요소는**zero-indexed** 이다. index가 0부터 시작하며, 1씩 커진다.
 * 따라서, array의 마지막 원소의 인덱스는 array size에 1을 뺀 값이다.
-<img src="0", height=200>
+<img src= "https://github.com/kanghuiseon/SwiftStudy/blob/master/07_Arrays%26Dictionaries%26Sets/Resource/0.png" height="200">
 
 * 사진에서보면, 5개의 원소가 있고, 인덱스는 0-4로 이루어져 있다.
 * 내부 값의 타입은 String이며, String이 아닌 타입은 추가할 수 없다.
@@ -167,7 +167,7 @@ let upcomingPlayersSlice = players[1...2]
 print(upcomingPlayersSlice[1], upcomingPlayersSlice[2])
 // > "Bob Cindy\n"
 ```
-<img src="1" height="200">
+<img src="https://github.com/kanghuiseon/SwiftStudy/blob/master/07_Arrays%26Dictionaries%26Sets/Resource/1.png" height="250">
 
 * upcomingPlayersSlice는 원래의 players 배열의  ArraySlice 타입이다. 
 * 여기서 알 수 있는 것은 upcomingPlayersSlice는 players의 SubSequence이므로, players의 storage를 공유한다.
@@ -373,7 +373,7 @@ for (index, player) in players.enumerated() {
 
 ## Dictionaries
 * dictionary는 순서가 없는 pair의 collection이다. 여기서 pair는 **key**,  **value**를 가진다.
-<img src="2" height="200">
+<img src="https://github.com/kanghuiseon/SwiftStudy/blob/master/07_Arrays%26Dictionaries%26Sets/Resource/2.png" height="250">
 
 * 위의 사진에서 보는것과 같이 key는 **unique** 해야 한다. 같은 key는 존재할 수 없으며, 같은 value는 존재할 수 있다.
 * 또한 모든 key는 같은 type을 가져야 하고, 모든 값들은 같은 타입을 가져야 한다.
@@ -437,7 +437,7 @@ namesAndScores.count    //  4
 ## Modifying dictionaries
 ### Adding pairs
 * Bob이 게임을 하길 원한다고 해보자.
-<img src= "3" height="200">
+<img src= "https://github.com/kanghuiseon/SwiftStudy/blob/master/07_Arrays%26Dictionaries%26Sets/Resource/3.png" height="200">
 
 * Bob을 가입시키기 전에 그의 인적사항을 보자.
 ```swift
@@ -534,7 +534,7 @@ print("") // print one final newline
 ## Sets
 * set은 같은 타입의 unique value들의 **순서가 없는** 집합이다. 
 * 이것은 값이 한 번 이상 존재하지 않는 것을 보장해줘서 매우매우 유용하게 쓰인다.
-<img src="4" height="200">
+<img src="https://github.com/kanghuiseon/SwiftStudy/blob/master/07_Arrays%26Dictionaries%26Sets/Resource/4.png" height="250">
 
 * 그림에서는 4 strings가 존재하고, 순서가 존재하지 않는 것을 볼 수 있다.
 <br/>
