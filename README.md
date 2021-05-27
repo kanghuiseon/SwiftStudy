@@ -14,7 +14,7 @@
    | number | subject | Responsibility | Note | 
    |:---:| :--- | :--- | :--- |
    |Chapter 7|[Arrays, Dictionaries & Sets](https://github.com/kanghuiseon/SwiftStudy/blob/master/07_Arrays%26Dictionaries%26Sets/07_ArraysDictionariesSets.md) | 희선 | Arrays, Dictionaries & Sets |
-   |Chapter 8|[Collection Iteration with Closures](https://github.com/kanghuiseon/SwiftStudy/blob/master/08_CollectionIterationWithClosures/08_CollectionIterationWithClosures.md) | 희선 | Collection Iteration with Closures |
+   |Chapter 8|[Collection Iteration with Closures](https://github.com/kanghuiseon/SwiftStudy/blob/master/08_CollectionIterationWithClosures/08_CollectionIterationWithClosures.md) | 희선 | Closure, Multiple trailing closures syntax, Capturing, forEach, filter, first, map, compactMap, flatMap, reduce, reduce(into:_:), dropFirst, dropLast, prefix, suffix, removeAll(), Lazy collections |
    
   
 <br/>
