@@ -14,7 +14,7 @@
    | number | subject | Responsibility | Note | 
    |:---:| :--- | :--- | :--- |
    |Chapter 7|[Arrays, Dictionaries & Sets](https://github.com/kanghuiseon/SwiftStudy/blob/master/07_Arrays%26Dictionaries%26Sets/07_ArraysDictionariesSets.md) | 희선 | Arrays, Dictionaries & Sets |
-   |Chapter 8|[Collection Iteration with Closures](https://github.com/kanghuiseon/SwiftStudy/blob/master/04_AdvancedControlFlow/04_AdvancedControlFlow.md) | 희선 | Collection Iteration with Closures |
+   |Chapter 8|[Collection Iteration with Closures](https://github.com/kanghuiseon/SwiftStudy/blob/master/08_CollectionIterationWithClosures/08_CollectionIterationWithClosures.md) | 희선 | Collection Iteration with Closures |
    
   
 <br/>
