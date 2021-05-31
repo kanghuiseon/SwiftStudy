@@ -23,7 +23,7 @@ struct Contact{
 위에서 생성한 Contact structure는 반복적으로 사용할 수 있다. 그래서 contacts 배열을 하나 만들어, 내부에 각각 다른 정보의 Contact가 들어있게 할 수 있다.  
 여기서 properties는 fullName과 emailAddress이다.
 
-<img src="https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/Resource/0.png0" height="200">
+<img src="https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/Resource/0.png" height="200">
 
 각 properties는 타입은 각각 String 으로 지정되어 있지만, 디폴트 값은 설정되어있지 않다. 이런 경우에는 초기화 할 때 각 프로퍼티에 값을 할당한다.
 
