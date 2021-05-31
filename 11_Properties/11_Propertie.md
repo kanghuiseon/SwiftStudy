@@ -25,7 +25,7 @@ struct Contact{
 
 여기서 properties는 fullName과 emailAddress이다.
 
-<img src=“https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/Resource/0.png” height=200>
+<img src=“https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/Resource/0.png” height = 230>
 
 각 properties는 타입은 각각 String 으로 지정되어 있지만, 디폴트 값은 설정되어있지 않다. 이런 경우에는 초기화 할 때 각 프로퍼티에 값을 할당한다.
 
@@ -93,7 +93,7 @@ Stored properties는 constant나 variable로 선언을 할 수 있는 반면에,
 
 컴파일러가 나중에 리턴 값으로 뭘 가져야 할 지 알아야 하기 때문에 Computed properties는 type을 무조건 가져야 한다.
 
-<img src=“https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/Resource/1.png” height = 200>
+<img src="https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/Resource/1.png" height = 200>
 
 TV는 computed property를 설명하는데 가장 좋은 예시이다.
 실제로 TV산업에서 스크린 크기를 정의할 때 높이, 넓이가 아니라 대각선을 측정한다.
