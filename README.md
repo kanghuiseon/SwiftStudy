@@ -20,7 +20,7 @@
    | number | subject | Responsibility | Note | 
    |:---:| :--- | :--- | :--- |
    |Chapter 10|[Structures](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Structures |
-   |Chapter 11|[Properties](https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/11_Propertie.md) | 희선 | Properties |
+   |Chapter 11|[Properties](https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/11_Propertie.md) | 희선 | Stored properties, Computed properties, getter setter, Type properties, Property observers, Lazy properties |
    |Chapter 12|[Methods](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 희선 | Methods |
   
 <br/>
