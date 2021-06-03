@@ -9,7 +9,7 @@ var numbers = [1, 2, 3]
 numbers.removeLast()
 numbers // [1, 2]
 ```
-<img src=“https://github.com/kanghuiseon/SwiftStudy/blob/master/12_Methods/Resource/0.png” height=250>
+![1](Resource/0.png)
 
 removeLast()와 같은 Methods는 structure의 data를 다룰 때 사용된다.
 <br/>
@@ -21,7 +21,7 @@ removeLast()와 같은 Methods는 structure의 data를 다룰 때 사용된다.
 그렇다면 이 둘의 차이점은 무엇일까?
 
 프로퍼티는 기본적으로 값을 저장한다. 반면에 메소드는 어떠한 일을 수행한다.
-<img src=“https://github.com/kanghuiseon/SwiftStudy/blob/master/12_Methods/Resource/1.png” height = 230>
+![1](Resource/1.png)
 
 둘 중 하나를 선택할 때, 값을 얻는 것 뿐만 아니라 값을 새로 설정하기를 원하지는 않는지를 생각해보자.
 
@@ -71,7 +71,7 @@ let date = SimpleDate(month: "October")
 date.monthsUntilWinterBreak(from: date) //2
 ```
 프로퍼티와 같이, 메소드 이름을 타이핑하면 자동으로 suggestions를 제공한다.
-<img src=“https://github.com/kanghuiseon/SwiftStudy/blob/master/12_Methods/Resource/2.png” height = 200>
+![1](Resource/2.png)
 
 가만히 코드를 보니, 좀 이상한 점이 있다. 자기 자신을 파라미터로 넘겨주는 것이다. 
 ```swift
@@ -231,7 +231,7 @@ struct SimpleDate {
 코드를 자세히 보자.
 1. 두 개의 프로퍼티들이 각각 January와 1이라는 기본 값을 가진다.
 2. 두 개의 initializers가 사라졌다.
-<img src=“https://github.com/kanghuiseon/SwiftStudy/blob/master/12_Methods/Resource/3.png” height =200>
+![1](Resource/3.png)
 
 비록 initializer가 사라졌지만 여전히 initializer style을 사용할 수 있다.
 ```swift
@@ -317,7 +317,8 @@ Math.factorial(of: 6) // 720
 1. static으로 선언해서 타입 메소드라고 명시했다. 
 2. 고차 함수인 reduce를 사용해서 구현했다. for문을 사용해서 팩토리얼을 계산할 수도 있지만 고차함수를 이용해서 좀 더 깔끔하게 코드를 짰다.
 3. 타입 메소드를 호출할 때, Math. 으로 호출했다.
-<img src = “https://github.com/kanghuiseon/SwiftStudy/blob/master/12_Methods/Resource/4.png” height="200">
+![1](Resource/4.png)
+
 <br/>
 <br/>
 
@@ -393,7 +394,7 @@ SimpleDate 구조체에서, init()을 추가했더니, compiler-generated member
 
 만약 extension을 이용해서 SimpleDate에 init()을 추가한다면 둘 다 유지할 수 있다.
 
-<img src=“https://github.com/kanghuiseon/SwiftStudy/blob/master/12_Methods/Resource/5.png” height=250>
+![1](Resource/5.png)
 
 <br/>
 
