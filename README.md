@@ -15,11 +15,11 @@
    |:---:| :--- | :--- | :--- |
    |Chapter 7|[Arrays, Dictionaries & Sets](https://github.com/kanghuiseon/SwiftStudy/blob/master/07_Arrays%26Dictionaries%26Sets/07_ArraysDictionariesSets.md) | 희선 | Arrays, Dictionaries & Sets |
    |Chapter 8|[Collection Iteration with Closures](https://github.com/kanghuiseon/SwiftStudy/blob/master/08_CollectionIterationWithClosures/08_CollectionIterationWithClosures.md) | 희선 | Closure, Multiple trailing closures syntax, Capturing, forEach, filter, first, map, compactMap, flatMap, reduce, reduce(into:_:), dropFirst, dropLast, prefix, suffix, removeAll(), Lazy collections |
-   |Chapter 9|[Strings](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Strings |
+   |Chapter 9|[Strings](https://github.com/kanghuiseon/SwiftStudy/blob/master/09_Strings/09_Strings.md) | 상윤 | Strings |
 * **Section III : Building Your Own Types**
    | number | subject | Responsibility | Note | 
    |:---:| :--- | :--- | :--- |
-   |Chapter 10|[Structures](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Structures |
+   |Chapter 10|[Structures](https://github.com/kanghuiseon/SwiftStudy/blob/master/10_Structures/10_Structures.md) | 상윤 | Structures |
    |Chapter 11|[Properties](https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/11_Propertie.md) | 희선 | Stored properties, Computed properties, getter setter, Type properties, Property observers, Lazy properties |
    |Chapter 12|[Methods](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 희선 | Methods, self, initializers, mutating methods, Type methods, extensions  |
  
