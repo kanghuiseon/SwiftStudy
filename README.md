@@ -21,7 +21,16 @@
    |:---:| :--- | :--- | :--- |
    |Chapter 10|[Structures](https://github.com/kanghuiseon/SwiftStudy/blob/master/10_Structures/10_Structures.md) | 상윤 | Structures, methods, Structures as value, protocol |
    |Chapter 11|[Properties](https://github.com/kanghuiseon/SwiftStudy/blob/master/11_Properties/11_Propertie.md) | 희선 | Stored properties, Computed properties, getter setter, Type properties, Property observers, Lazy properties |
-   |Chapter 12|[Methods](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 희선 | Methods, self, initializers, mutating methods, Type methods, extensions  |
+   |Chapter 12|[Methods](https://github.com/kanghuiseon/SwiftStudy/blob/master/12_Methods/12_Methods.md) | 희선 | Methods, self, initializers, mutating methods, Type methods, extensions  |
+   |Chapter 13|[Classes](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Classes  |
+   |Chapter 14|[Advanced Classes](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Advanced Classes  |
+   |Chapter 15|[Enumerations](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Enumerations  |
+   |Chapter 16|[Protocols](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 희선 | Protocols  |
+   |Chapter 17|[Generics](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 희선 | Generics  |
+* **Section IV : Advanced Topics**
+   | number | subject | Responsibility | Note | 
+   |:---:| :--- | :--- | :--- |
+   |Chapter 18|[Access Control, Code Organization & Testing](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 희선 | Access Control, Code Organization & Testing |
  
 <br/>
 <br/>
