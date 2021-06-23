@@ -40,7 +40,7 @@ enum EnumKeeperKind{
 위와 같이 enum으로 keeper를 관리하도록 해보자. 만약 PetKind.snake를 새롭게 추가했는데 EnumKeeperKind.snakeKeeper를 추가하는 것을 잊었다면, 아주 최악의 상황이 생길 것이다.
 
 위와 같은 상황이 일어나도록 하지 않기 위해서 KeeperKind와 같이 PetKind의 프로퍼티를 가지고 관계를 명확하게 해준다.
-PetKind에 값이 추가되거나 제거되면 동시에 KeeperKind의 값도 추가되거나 제거될 수 있도록 한다.
+PetKind에 값이 추가되거나 제거되면 동시에 KeeperKind의 값도 추가되거나 제거될 수 있도록 한다.   
 ![1](Resource/0.png)
 
 ## Anatomy of generic types
@@ -49,7 +49,7 @@ Generics는 실제 자료형(Int, String 등등)을 대체하는 **placeholder**
 ```swift
 class Keeper<Animal>{}
 ```
-Animal을 **Type parameter**라고 하며, 문맥에 따라서 실제 타입으로 대체된다.
+Animal을 **Type parameter**라고 하며, 문맥에 따라서 실제 타입으로 대체된다.   
 ![1](Resource/1.png)
 
 사진에서처럼 Pet type이 Cat인 경우에는 Animal이 Cat타입으로 바뀌고, Pet type이 Dog 인 경우에는 Animal이 Dog 타입으로 바뀐다. 
