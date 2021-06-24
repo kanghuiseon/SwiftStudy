@@ -322,7 +322,7 @@ Swift에서는 이것을 지원해준다.
 @available(*, deprecated, message: "Use processInterest(pin:) instead") 
 ```
 그러면, 바뀌기 전 생성자와 processInterest() 은 여전히 사용할 수 있게 되지만, 
-만약 누군가가 사용을 하려고 한다면, 다음과 같은 경고 메세지를 보여줄 것이다.
+만약 누군가가 사용을 하려고 한다면, 다음과 같은 경고 메세지를 보여줄 것이다.   
 ![1](Resource/7.png)
 
 파라미터 내부에 별표는 deprecation에 의해 영향을 받는 platforms을 의미한다.
@@ -341,7 +341,7 @@ func createAccount() -> Account {
   CheckingAccount()
 }
 ```
-아마 다음과 같은 에러를 볼것이다.
+아마 다음과 같은 에러를 볼것이다.    
 ![1](Resource/8.png)
 
 Account 프로토콜에 명확하지 않은 타입(associatedType이나 Self)가 존재하고, 함수에서 해당 프로토콜을 리턴 타입으로 사용하고 싶을 때, 명확하지 않은 타입 때문에 컴파일 오류가 발생한다. 
