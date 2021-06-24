@@ -344,8 +344,8 @@ named.name = "Still Structy?"
 named.name // Still Structy?
 copy.name // Structy
 ```
-위와 같은 상황은 항상 명확한것은 아니다. Swift는 reference보다 value를 더 선호한다. 
-만약 클래스에 의해서만 채택되는 프로토콜을 만들려고 한다면, 아래와 같이 해당 프로토콜이 AnyObject 프로토콜을 채택하도록 하여서, Swift가 해당 프로토콜을 value type이 아니라 reference type으로만 사용하도록 해야 한다.
+Swift는 reference보다 value를 더 선호하기 때문에, 위와 같은 상황은 항상 명확하게 일어나는 것은 아니다.
+이것을 방지하기 위해서, 만약 클래스에 의해서만 채택되는 프로토콜을 만들려고 한다면, 아래와 같이 해당 프로토콜이 AnyObject 프로토콜을 채택하도록 하여서, Swift가 해당 프로토콜을 value type이 아니라 reference type으로만 사용하도록 해야 한다.
 ```swift
 protocol Named: AnyObject {
   var name: String { get set }
