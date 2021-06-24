@@ -4,16 +4,14 @@
 
 코드가 복잡해짐에 따라, interface를 잘 관리하는것이 software design에서 중요한 부분이 되었다. 
 
-“Helpers” 역할을 하는 메소드를 만들고 싶을 수도 있고, interface에서는 일어나지 않았으면 하는 내부 상태를 추적하는  프로퍼티를 만들고 싶을 수 있다.
-Swift는 **access control** 으로 이러한 상황을 해결한다.
-access control은 사용자에게 복잡한 구현은 보이지 않도록 할 수 있다.
+Swift는 **access control** 으로 사용자에게 복잡한 구현은 보이지 않도록 할 수 있다.
 
 이렇게 숨겨진 내부 구현은 거의 불변하다.  여기에 직접적으로 접근하는 것을 막고, 불변한 상태를 유지하는 것은 **encapsulation** 이라고 알려진 software design concept이다. 
 
 이번 챕터에서는 access control을 배우고, 문제를 어떻게 해결하고 적용하는지를 볼 것이다.
 
 ## problems introduced by lack of access control
-Banking library를 작성한다고 해보자. 이 library를 이용해서 고객(다른 은행)이 banking software를 작성한다고 해보자.
+Banking library를 작성한다고 가정했을때, 이 library를 이용해서 고객(다른 은행)이 banking software를 작성한다고 해보자.
 ```swift
 /// A protocol describing core functionality for an account
 protocol Account {
