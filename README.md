@@ -25,12 +25,12 @@
    |Chapter 13|[Classes](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Classes  |
    |Chapter 14|[Advanced Classes](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Advanced Classes  |
    |Chapter 15|[Enumerations](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Enumerations  |
-   |Chapter 16|[Protocols](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 희선 | Protocols  |
-   |Chapter 17|[Generics](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 희선 | Generics  |
+   |Chapter 16|[Protocols](https://github.com/kanghuiseon/SwiftStudy/blob/master/16_Protocols/16_Protocols.md) | 희선 | Protocols  |
+   |Chapter 17|[Generics](https://github.com/kanghuiseon/SwiftStudy/blob/master/17_Generics/17_Generics.md) | 희선 | Generics  |
 * **Section IV : Advanced Topics**
    | number | subject | Responsibility | Note | 
    |:---:| :--- | :--- | :--- |
-   |Chapter 18|[Access Control, Code Organization & Testing](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 희선 | Access Control, Code Organization & Testing |
+   |Chapter 18|[Access Control, Code Organization & Testing](https://github.com/kanghuiseon/SwiftStudy/blob/master/18_AccessControlCodeOrganizationTesting/18_AccessControlCodeOrganizationTesting.md) | 희선 | Access Control, Code Organization & Testing |
  
 <br/>
 <br/>
