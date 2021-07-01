@@ -25,8 +25,7 @@
    |Chapter 13|[Classes](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Classes  |
    |Chapter 14|[Advanced Classes](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Advanced Classes  |
    |Chapter 15|[Enumerations](https://github.com/kanghuiseon/SwiftStudy/blob/master/06_Optionals/06_Optionals.md) | 상윤 | Enumerations  |
-   |Chapter 16|[Protocols](https://github.com/kanghuiseon/SwiftStudy/blob/master/16_Protocols/16_Protocols.md) | 희선 | Protocols, Protocol inheritance, multiple protocols, Associated types, Protocol composition, 
-   Extensions & protocol conformance, Equatable, Comparable, Hashable, Identifiable, CustomStringConvertible |
+   |Chapter 16|[Protocols](https://github.com/kanghuiseon/SwiftStudy/blob/master/16_Protocols/16_Protocols.md) | 희선 | Protocols, Protocol inheritance, multiple protocols, Associated types, Protocol composition, Extensions & protocol conformance, Equatable, Comparable, Hashable, Identifiable, CustomStringConvertible |
    |Chapter 17|[Generics](https://github.com/kanghuiseon/SwiftStudy/blob/master/17_Generics/17_Generics.md) | 희선 | Generics, Type parameters, Type constraints, Arrays, Dictionaries, Optionals, Generic function |
 * **Section IV : Advanced Topics**
    | number | subject | Responsibility | Note | 
