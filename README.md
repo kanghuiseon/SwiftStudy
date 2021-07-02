@@ -33,8 +33,8 @@
    |Chapter 18|[Access Control, Code Organization & Testing](https://github.com/kanghuiseon/SwiftStudy/blob/master/18_AccessControlCodeOrganizationTesting/18_AccessControlCodeOrganizationTesting.md) | 희선 | Access Control, private, fileprivate, internal, public, open, extensions, available(), Opaque return type, some, Testing, XCTestCase, XCTAssert, XCTFail, XCTSkip, @testable, setUp, tearDown |
    |Chapter 19|[Custom Operators, Subscripts & Keypaths](https://github.com/kanghuiseon/SwiftStudy/blob/master/18_AccessControlCodeOrganizationTesting/18_AccessControlCodeOrganizationTesting.md) | 상윤 | Custom Operators, Subscripts & Keypaths |
    |Chapter 20|[Pattern Matching](https://github.com/kanghuiseon/SwiftStudy/blob/master/18_AccessControlCodeOrganizationTesting/18_AccessControlCodeOrganizationTesting.md) | 상윤 | Pattern Matching |
-   |Chapter 21|[Error Handling](https://github.com/kanghuiseon/SwiftStudy/blob/master/18_AccessControlCodeOrganizationTesting/18_AccessControlCodeOrganizationTesting.md) | 희선 | Error Handling |
-   |Chapter 22|[Encoding & Decoding Types](https://github.com/kanghuiseon/SwiftStudy/blob/master/18_AccessControlCodeOrganizationTesting/18_AccessControlCodeOrganizationTesting.md) | 희선 | Encoding & Decoding Types|
+   |Chapter 21|[Error Handling](https://github.com/kanghuiseon/SwiftStudy/blob/master/21_ErrorHandling/21_ErrorHandling.md) | 희선 | Error Handling |
+   |Chapter 22|[Encoding & Decoding Types](https://github.com/kanghuiseon/SwiftStudy/blob/master/22_EncodingDecodingTypes/22_EncodingDecodingTypes.md) | 희선 | Encoding & Decoding Types|
  
 <br/>
 <br/>
